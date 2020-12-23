@@ -70,13 +70,25 @@
         },
         "73": {
             "#99ffcc": [
-                "Meridellian Potion of Defence",
                 "Mano Root Elixir",
                 "Essence of Drackonack",
                 "Bomberry Elixir",
                 "Cooling Balm of the Warrior",
                 "Jar of Forest Earth",
-                "Bubbling Fungus"
+                "Bubbling Fungus",
+                "Kaylas Golden Brew",
+                "Twisted Potion of Strength",
+                "Illusens Forest Essence",
+                "Bullseye Potion",
+                "Meridellian Potion of Defence"
+            ],
+            "#99ff99": [
+                "Energising Elixir",
+                "Strength Serum",
+                "Elixir of Levelling",
+                "Kaylas Super Special Potion",
+                "Potion of Doldrums",
+                "Potato Potion"
             ]
         },
         "13": {
@@ -101,9 +113,7 @@
                 "Secret Sloth Slushie",
                 "Cheese Plate Slushie"
             ],
-            "#99ff99": [
-
-            ]
+            "#99ff99": []
         },
         "48": {
             "#99ffcc": [
@@ -300,6 +310,42 @@
                 "Grundo Toe Lint",
                 "Ghost Puff",
                 "Coffee of the Dead"
+            ]
+        },
+        "37": {
+            "#99ff99": [
+                "Magical Pea Chia Pop",
+                "Magical Asparagus Chia Pop",
+                "Magical Grape Chia Pop",
+                "Magical Apple Chia Pop",
+                "Magical Peach Chia Pop",
+                "Magical Pear Chia Pop",
+                "Magical Gooseberry Chia Pop",
+                "Magical Tomato Chia Pop",
+                "Magical Pepper Chia Pop",
+                "Magical Agueena Chia Pop",
+                "Magical Pineapple Chia Pop",
+                "Magical Avocado Chia Pop",
+                "Magical Durian Chia Pop",
+                "Magical Ummagine Chia Pop",
+                "Magical Orange Chia Pop",
+                "Magical Thornberry Chia Pop",
+                "Magical Carrot Chia Pop",
+                "Magical Chokato Chia Pop",
+                "Magical Lime Chia Pop",
+                "Magical Blueberry Chia Pop",
+                "Magical Aubergine Chia Pop",
+                "Magical Plum Chia Pop",
+                "Tartan Chia Pop",
+                "Banana Split Chia Pop",
+                "Magical Lemon Chia Pop",
+                "Magical Onion Chia Pop",
+                "Magical Strawberry Chia Pop",
+                "Angelic Ice Lolly",
+                "Hamarama Ice Lolly",
+                "Maractite Ice Lolly",
+                "Frozen Negg",
+                "Crystal Turkey"
             ]
         }
     }
