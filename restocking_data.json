@@ -4,23 +4,18 @@
             "#99ffcc": [
                 "Negg",
                 "Chocolate Ice Cream",
-                "Bag of Peanuts",
                 "Battle Duck Negg",
-                "Blue Cybunny Negg",
                 "Blue Negg",
                 "Candy Cane Negg",
                 "Christmas Pattern Negg",
                 "Happy Birthday Negg",
-                "Happy Anniversary Negg",
                 "Green Negg",
                 "Heart Shaped Negg",
                 "Glass Negg",
                 "Illusen Negg",
                 "Lemon Swirly Negg",
-                "Jelly Negg",
                 "Lime Swirly Negg",
                 "Maple Syrup Negg",
-                "Mutated Negg",
                 "Pirate Negg",
                 "Partitioned Negg",
                 "Ornate Purple Negg",
@@ -28,7 +23,6 @@
                 "Purple Negg",
                 "Pretty Purple Princess Negg",
                 "Purple Cybunny Negg",
-                "Rainbow Cybunny Negg",
                 "Rainbow Negg",
                 "Rainbow Neggnog",
                 "Super Icy Negg",
@@ -38,6 +32,39 @@
                 "Ultra Icy Negg",
                 "Sweet and Sour Negg",
                 "Swirly Negg #498"
+            ],
+            "#99ff99": [
+                "Jelly Negg",
+                "Rainbow Cybunny Negg",
+                "Green Picnic Hamper",
+                "Black Currant Juice",
+                "Chocolate Coated Blue Cheese",
+                "Plum",
+                "Animal-style Chips",
+                "BLT Croissant",
+                "Candy Floss Carrot",
+                "Chicken Filets with Fancy Sauce",
+                "Chocolate Coated Cheese Strings",
+                "Diet Big Gulp Neocola",
+                "Olivetato",
+                "Onion and Mustard Pie",
+                "Polka Carrot",
+                "Mighty Steakwich",
+                "Mega Sandwich",
+                "Puzzle Fruit",
+                "Rainbow Carrot",
+                "Big Gulp Neocola",
+                "Golden Caviar",
+                "Chokato Toffee Apple",
+                "Happy Anniversary Negg",
+                "Blue Cybunny Negg",
+                "Mega Pipper Sandwich",
+                "Upside Down Ice Cream",
+                "Container of Purple Liquid",
+                "Mutated Negg",
+                "Pizza Sandwich",
+                "Kadoatie Biscuits",
+                "Bag of Peanuts"
             ]
         },
         "73": {
@@ -72,6 +99,9 @@
                 "Berry Blend Slushie",
                 "Secret Sloth Slushie",
                 "Cheese Plate Slushie"
+            ],
+            "#99ff99": [
+                
             ]
         },
         "48": {
@@ -104,8 +134,8 @@
             ]
         },
         "86": {
-            "#99ffcc": [
-                "Golden Shell",
+            "#99ff99": [
+                "Tiny Golden Shell",
                 "Choker of the Deep",
                 "Floral Maractite Coin",
                 "Dazzling Blue Mussel Shell",
@@ -113,7 +143,10 @@
                 "Maraquan Draik Maractite Coin",
                 "Purple Twirly Shell",
                 "Royal Orange Cowry Shell",
-                "Streaked Maractite Coin",
+                "Streaked Maractite Coin"
+            ],
+            "#99ffcc": [
+                "Golden Shell",
                 "Large Maractite Coin",
                 "Exquisite Peophin Ring of the Deep",
                 "Diadem of the Deep"
@@ -236,6 +269,37 @@
                 "Strawberry Fondant Surprise",
                 "Walking Carpet Cotton Candy",
                 "Jelly Bean Pirate Chest"
+            ]
+        },
+        "30": {
+            "#99ff99": [
+                "Cadaverous Cola",
+                "Elderly Apple",
+                "Snorkle Pudding",
+                "Snorkle Snout",
+                "Jelly Finger",
+                "Coco Pumpkin",
+                "Forgotten Apple",
+                "Poison Apples",
+                "Rotting Veggies Salad",
+                "Pumpkin Scoopings",
+                "Mouldy Cheese",
+                "Parts on a Pizza",
+                "Gorerito",
+                "Jelly Spider Eyeball",
+                "Halloween Candy Cane",
+                "Runny Snot",
+                "BluePepper Porridge",
+                "Pink Apple Lantern",
+                "Crunchy Snotball",
+                "Wing of Korbat",
+                "Apple Lantern",
+                "Meerca Pie",
+                "Spoooky Muffin",
+                "Pink Spooky Ice Cream",
+                "Grundo Toe Lint",
+                "Ghost Puff",
+                "Coffee of the Dead"
             ]
         }
     }
