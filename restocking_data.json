@@ -348,29 +348,63 @@
                 "Crystal Turkey"
             ]
         },
-        "#ff99cc": [
-            "Vengeful Scroll",
-            "Curse of Ultimate Malison",
-            "The Scroll of Scrolls",
-            "Golden Scamander Scroll",
-            "Book of Flames",
-            "A Plague Upon You!",
-            "Professional Curses",
-            "You Will Get Verrucas!",
-            "Malediction for Beginners",
-            "The Legendary Sutek Scroll",
-            "Book of Scarabs",
-            "Curse of Foul Odour",
-            "Vile Scroll of Possession",
-            "Scroll of the Ancients",
-            "Dusty Harmless Looking Scroll",
-            "Youve Been Hexed!",
-            "Vile Curse of Pestilence",
-            "Forgotten Tome",
-            "Scroll of the Warrior",
-            "Mummified Scroll",
-            "Advanced Curses",
-            "Scroll of Hunger"
-        ]
+        "51": {
+            "#ff99cc": [
+                "Vengeful Scroll",
+                "Curse of Ultimate Malison",
+                "The Scroll of Scrolls",
+                "Golden Scamander Scroll",
+                "Book of Flames",
+                "A Plague Upon You!",
+                "Professional Curses",
+                "You Will Get Verrucas!",
+                "Malediction for Beginners",
+                "The Legendary Sutek Scroll",
+                "Book of Scarabs",
+                "Curse of Foul Odour",
+                "Vile Scroll of Possession",
+                "Scroll of the Ancients",
+                "Dusty Harmless Looking Scroll",
+                "Youve Been Hexed!",
+                "Vile Curse of Pestilence",
+                "Forgotten Tome",
+                "Scroll of the Warrior",
+                "Mummified Scroll",
+                "Advanced Curses",
+                "Scroll of Hunger"
+            ]
+        },
+        "7": {
+            "#ff99cc": [
+                "Bruces Guide to Combat Eating",
+                "A Chia Story",
+                "Super Secret Guide to the Defenders of Neopia Headquarters",
+                "A History of Chias",
+                "Illusens Diary",
+                "The Voodoo Techo",
+                "Beating Sloth",
+                "A Seasonal Pea",
+                "Ultimate Space Chronicles Set",
+                "Brain Trees Brainiac",
+                "Lenny Cookbook",
+                "Best Friends",
+                "Inside the Mind of Bob",
+                "Decoding a Coded Decoding Book",
+                "The Shadow Usul",
+                "Cures for Bad Breath",
+                "Olde Zafara",
+                "A Chia Halloween",
+                "Neopian Heroes",
+                "Inside the Gifts for your Enemies",
+                "Sophie, A Biography",
+                "Culture and History of Faerieland",
+                "Forbidden Zafara",
+                "Petfolio",
+                "Trigonometry Hyperbolics",
+                "Uni Myths",
+                "The Bad Skeith",
+                "Koya Korbat Huntress"
+            ]
+        }
     }
 }
