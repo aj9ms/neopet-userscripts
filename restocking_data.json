@@ -48,8 +48,11 @@
                 "Bomberry Elixir",
                 "Cooling Balm of the Warrior",
                 "Jar of Forest Earth",
-                "Bubbling Fungus",
-                "Marrow Tonic Water"
+                "Bubbling Fungus"
+            ],
+            "red": [
+                "Marrow Tonic Water",
+                "Kaylas Home Remedy"
             ]
         },
         "13": {
