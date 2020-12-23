@@ -34,7 +34,7 @@
                 "Swirly Negg #498",
                 "Orange Negg"
             ],
-            "#99ff99": [
+            "#ff99cc": [
                 "Jelly Negg",
                 "Rainbow Cybunny Negg",
                 "Green Picnic Hamper",
@@ -82,7 +82,7 @@
                 "Bullseye Potion",
                 "Meridellian Potion of Defence"
             ],
-            "#99ff99": [
+            "#ff99cc": [
                 "Energising Elixir",
                 "Strength Serum",
                 "Elixir of Levelling",
@@ -113,7 +113,7 @@
                 "Secret Sloth Slushie",
                 "Cheese Plate Slushie"
             ],
-            "#99ff99": []
+            "#ff99cc": []
         },
         "48": {
             "#99ffcc": [
@@ -145,7 +145,7 @@
             ]
         },
         "86": {
-            "#99ff99": [
+            "#ff99cc": [
                 "Tiny Golden Shell",
                 "Choker of the Deep",
                 "Floral Maractite Coin",
@@ -283,7 +283,7 @@
             ]
         },
         "30": {
-            "#99ff99": [
+            "#ff99cc": [
                 "Cadaverous Cola",
                 "Elderly Apple",
                 "Snorkle Pudding",
@@ -313,7 +313,7 @@
             ]
         },
         "37": {
-            "#99ff99": [
+            "#ff99cc": [
                 "Magical Pea Chia Pop",
                 "Magical Asparagus Chia Pop",
                 "Magical Grape Chia Pop",
