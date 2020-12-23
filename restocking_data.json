@@ -347,6 +347,30 @@
                 "Frozen Negg",
                 "Crystal Turkey"
             ]
-        }
+        },
+        "#ff99cc": [
+            "Vengeful Scroll",
+            "Curse of Ultimate Malison",
+            "The Scroll of Scrolls",
+            "Golden Scamander Scroll",
+            "Book of Flames",
+            "A Plague Upon You!",
+            "Professional Curses",
+            "You Will Get Verrucas!",
+            "Malediction for Beginners",
+            "The Legendary Sutek Scroll",
+            "Book of Scarabs",
+            "Curse of Foul Odour",
+            "Vile Scroll of Possession",
+            "Scroll of the Ancients",
+            "Dusty Harmless Looking Scroll",
+            "Youve Been Hexed!",
+            "Vile Curse of Pestilence",
+            "Forgotten Tome",
+            "Scroll of the Warrior",
+            "Mummified Scroll",
+            "Advanced Curses",
+            "Scroll of Hunger"
+        ]
     }
 }
