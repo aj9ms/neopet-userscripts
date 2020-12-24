@@ -356,7 +356,6 @@
                 "Golden Scamander Scroll",
                 "Book of Flames",
                 "A Plague Upon You!",
-                "Professional Curses",
                 "You Will Get Verrucas!",
                 "Malediction for Beginners",
                 "The Legendary Sutek Scroll",
@@ -367,9 +366,12 @@
                 "Dusty Harmless Looking Scroll",
                 "Youve Been Hexed!",
                 "Vile Curse of Pestilence",
-                "Forgotten Tome",
                 "Scroll of the Warrior",
-                "Mummified Scroll",
+                "Mummified Scroll"
+            ],
+            "#99ffcc": [
+                "Professional Curses",
+                "Forgotten Tome",
                 "Advanced Curses",
                 "Scroll of Hunger"
             ]
@@ -404,6 +406,29 @@
                 "Uni Myths",
                 "The Bad Skeith",
                 "Koya Korbat Huntress"
+            ],
+            "#e6e6e6": [
+                "A Very Tiki Holiday",
+                "Kyrii Tales"
+            ]
+        },
+        "70": {
+            "#ff99cc": [
+                "Kreludor Mining Corridor Maps",
+                "It Came From Kreludor",
+                "Alien Aisha Invasion",
+                "Space Station Schematics",
+                "The Space Ace",
+                "It Came From the Mine",
+                "Kreludan Cookie Cookbook",
+                "The Big Book of Intermediate Evil Plots",
+                "Secrets of the Universe",
+                "Kreludan Architecture",
+                "Guide to the Neocola Machine"
+            ],
+            "#99ffcc": [
+                "Half Moon Pop-Up Book",
+                "Diary of a Baby Space Fungus"
             ]
         }
     }
