@@ -1,6 +1,70 @@
 {
     "shops": {
         "1": {
+            "linear-gradient(#ff99cc, white)": [
+                "Jelly Negg",
+                "Rainbow Cybunny Negg",
+                "Green Picnic Hamper",
+                "Black Currant Juice",
+                "Chocolate Coated Blue Cheese",
+                "Animal-style Chips",
+                "BLT Croissant",
+                "Candy Floss Carrot",
+                "Chicken Filets with Fancy Sauce",
+                "Chocolate Coated Cheese Strings",
+                "Diet Big Gulp Neocola",
+                "Olivetato",
+                "Onion and Mustard Pie",
+                "Polka Carrot",
+                "Mighty Steakwich",
+                "Mega Sandwich",
+                "Puzzle Fruit",
+                "Rainbow Carrot",
+                "Big Gulp Neocola",
+                "Golden Caviar"
+            ],
+            "#ff99cc": [
+                "Plum",
+                "Chokato Toffee Apple",
+                "Happy Anniversary Negg",
+                "Blue Cybunny Negg",
+                "Mega Pipper Sandwich",
+                "Upside Down Ice Cream",
+                "Container of Purple Liquid",
+                "Mutated Negg",
+                "Pizza Sandwich",
+                "Kadoatie Biscuits",
+                "Bag of Peanuts",
+                "Illusens Family Recipe Cake",
+                "Puntec Cupcake",
+                "Tchea Toffee Apple",
+                "Glowing Apple",
+                "Chocolate Joy Fun Pop",
+                "Uni Salad",
+                "Chocolate Coated Cheese",
+                "Cybunny Day Canape",
+                "Starry Scorchipepper",
+                "Raspberry Toffee Apple",
+                "Flaming Tuskaninny Ice Cream",
+                "Thorn on the Cob",
+                "Grey Toast",
+                "Bangers and Mash",
+                "Cheesy Krawk Dip",
+                "Chocolate Coated Holey Cheese",
+                "Mega Manoroot Sandwich",
+                "Cheesy Carrot Chunks",
+                "Starry Cupcake",
+                "Bomberry Grog",
+                "Carrot Crown",
+                "Ice Apple",
+                "Rainbow Apple",
+                "Acara Ice Cream Surprise",
+                "Red Picnic Hamper",
+                "Wocky Steak",
+                "Lawyerbot Degreaser",
+                "Cheesy Choco Cookie",
+                "Assorted Vandagyre Approved Nuts"
+            ],
             "#99ffcc": [
                 "Negg",
                 "Chocolate Ice Cream",
@@ -34,41 +98,9 @@
                 "Swirly Negg #498",
                 "Orange Negg"
             ],
-            "#ff99cc": [
-                "Jelly Negg",
-                "Rainbow Cybunny Negg",
-                "Green Picnic Hamper",
-                "Black Currant Juice",
-                "Chocolate Coated Blue Cheese",
-                "Plum",
-                "Animal-style Chips",
-                "BLT Croissant",
-                "Candy Floss Carrot",
-                "Chicken Filets with Fancy Sauce",
-                "Chocolate Coated Cheese Strings",
-                "Diet Big Gulp Neocola",
-                "Olivetato",
-                "Onion and Mustard Pie",
-                "Polka Carrot",
-                "Mighty Steakwich",
-                "Mega Sandwich",
-                "Puzzle Fruit",
-                "Rainbow Carrot",
-                "Big Gulp Neocola",
-                "Golden Caviar",
-                "Chokato Toffee Apple",
-                "Happy Anniversary Negg",
-                "Blue Cybunny Negg",
-                "Mega Pipper Sandwich",
-                "Upside Down Ice Cream",
-                "Container of Purple Liquid",
-                "Mutated Negg",
-                "Pizza Sandwich",
-                "Kadoatie Biscuits",
-                "Bag of Peanuts"
-            ],
             "#e6e6e6": [
-                "Aisha Tomato and Potato Soup"
+                "Aisha Tomato and Potato Soup",
+                "Raspberry Baby JubJub Lollypop"
             ]
         },
         "73": {
@@ -97,8 +129,7 @@
         "13": {
             "#99ffcc": [
                 "Extra Thick Goggles",
-                "Sporkle Syrup",
-                "Magic Goop"
+                "Sporkle Syrup"
             ]
         },
         "35": {
@@ -148,12 +179,14 @@
             ]
         },
         "86": {
-            "#ff99cc": [
+            "linear-gradient(#ff99cc, white)": [
                 "Tiny Golden Shell",
                 "Choker of the Deep",
                 "Floral Maractite Coin",
                 "Dazzling Blue Mussel Shell",
-                "Anklet of the Deep",
+                "Anklet of the Deep"
+            ],
+            "#ff99cc": [
                 "Maraquan Draik Maractite Coin",
                 "Purple Twirly Shell",
                 "Royal Orange Cowry Shell",
@@ -167,7 +200,8 @@
             ]
         },
         "14": {
-            "#99FFCC": [
+            "linear-gradient(#ff99cc, white)": [
+                "Chocolate Crown of the Faeries",
                 "Sniddberry Meerca Gobstopper",
                 "Chocolate Crown of the Faeries",
                 "Candy Cane Chocolate Advent Calendar",
@@ -182,7 +216,9 @@
                 "Lemon and Lime Easter Negg",
                 "Luxury Chocolate Easter Negg",
                 "Strawberries and Cream Easter Negg",
-                "Chocolate Advent Calendar",
+                "Chocolate Advent Calendar"
+            ],
+            "#ff99cc": [
                 "Chocolate Orange Easter Negg",
                 "Mint Chocolate Easter Negg",
                 "Orange Lightmite Lollypop",
@@ -201,7 +237,9 @@
                 "Chocolate Cybunny Negg",
                 "Chocolate Peach",
                 "Super Spicy Jelly Beans",
-                "Orange Scoach Lolly",
+                "Orange Scoach Lolly"
+            ],
+            "#99FFCC": [
                 "ErgyFruit Jelly Beans",
                 "Large Swirly Chocolate Cybunny",
                 "Draik Sugar Skull",
@@ -446,7 +484,8 @@
                 "Diary of a Baby Space Fungus"
             ],
             "#e6e6e6": [
-                "Grundos In Space"
+                "Grundos In Space",
+                "Howl"
             ]
         }
     }
