@@ -66,6 +66,10 @@
                 "Pizza Sandwich",
                 "Kadoatie Biscuits",
                 "Bag of Peanuts"
+            ],
+            "#e6e6e6": [
+                "Aisha Tomato and Potato Soup",
+
             ]
         },
         "73": {
@@ -291,7 +295,6 @@
                 "Coco Pumpkin",
                 "Forgotten Apple",
                 "Poison Apples",
-                "Rotting Veggies Salad",
                 "Pumpkin Scoopings",
                 "Mouldy Cheese",
                 "Parts on a Pizza",
@@ -299,7 +302,6 @@
                 "Jelly Spider Eyeball",
                 "Halloween Candy Cane",
                 "Runny Snot",
-                "BluePepper Porridge",
                 "Pink Apple Lantern",
                 "Crunchy Snotball",
                 "Wing of Korbat",
@@ -310,6 +312,17 @@
                 "Grundo Toe Lint",
                 "Ghost Puff",
                 "Coffee of the Dead"
+            ],
+            "#99ffcc": [
+                "Rotting Veggies Salad",
+                "BluePepper Porridge",
+                "Pink Spooky Popcorn",
+                "Carnivorous Carved Pumpkin",
+                "Raspberry Ghostkerchief Jelly",
+                "Jalapeno Cheese Nightmare",
+                "Disturbing Gelatin",
+                "Holiday Gingerbread Mansion",
+                "Brains and Dumplings"
             ]
         },
         "37": {
@@ -374,6 +387,9 @@
                 "Forgotten Tome",
                 "Advanced Curses",
                 "Scroll of Hunger"
+            ],
+            "#e6e6e6": [
+                "Lost Desert Weather Guide"
             ]
         },
         "7": {
@@ -429,6 +445,9 @@
             "#99ffcc": [
                 "Half Moon Pop-Up Book",
                 "Diary of a Baby Space Fungus"
+            ],
+            "#e6e6e6": [
+                "Grundos In Space"
             ]
         }
     }
