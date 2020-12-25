@@ -100,7 +100,8 @@
             ],
             "#e6e6e6": [
                 "Aisha Tomato and Potato Soup",
-                "Raspberry Baby JubJub Lollypop"
+                "Raspberry Baby JubJub Lollypop",
+                "Mint Chip Skeith Cone"
             ]
         },
         "73": {
@@ -270,6 +271,10 @@
                 "Chocolate Balthazar",
                 "Peanut Butter Gormball Truffle"
             ],
+            "#e6e6e6": [
+                "Chocolate Pteri Eggs",
+                "Rosy Apples"
+            ],
             "#ffffff": [
                 "Blueberry Gummy Slorg",
                 "Dark Chocolate Skeith",
@@ -406,6 +411,9 @@
                 "Tartan Chia Pop",
                 "Crystal Taco",
                 "Borovan in a Cone"
+            ],
+            "#e6e6e6": [
+                "Lemon Tuskaninny Pop"
             ]
         },
         "51": {
@@ -496,6 +504,83 @@
             "#e6e6e6": [
                 "Grundos In Space",
                 "Howl"
+            ]
+        },
+        "3": {
+            "linear-gradient(#ff99cc, white)": [
+                "Elephante Lamp Collectable Charm",
+                "Taiko Standing Drum Collectable Charm",
+                "Sloth Collectable Charm",
+                "Luxury Faerie Festival Snowglobe",
+                "Vanity Doll",
+                "Dark Faerie Doll",
+                "Negg Faerie Doll",
+                "Soup Faerie Doll",
+                "Space Faerie Doll",
+                "Fire Faerie Doll",
+                "Tooth Faerie Doll",
+                "Air Faerie Doll",
+                "Baby Techo Bobblehead",
+                "Light Faerie Doll",
+                "Techo Statue Collectable Charm",
+                "Gallion Collectable Charm",
+                "A Grey Faerie Doll",
+                "Malice Doll",
+                "Princess Terrana Collectable Charm",
+                "Cyodrake Collectable Charm"
+            ],
+            "#ff99cc": [
+                "Traditional Welsh Quiguki",
+                "Year 9 Quiguki",
+                "Ballerina Quiguki",
+                "Jeran Quiguki",
+                "Lost Desert Quiguki",
+                "Luxury Dark and Light Faerie Snowglobe",
+                "Negg Faerie Snowglobe",
+                "Taelia Quiguki",
+                "King Hagan Quiguki",
+                "Quiguki Mermaid",
+                "Quiguki Prom Queen",
+                "Luxury Beach Scene Faerie Snowglobe",
+                "Spite Doll",
+                "Wherfy Collectable Charm",
+                "Quiguki Zombie",
+                "Cheerleader Quiguki Doll",
+                "Quiguki Musketeer",
+                "Handsome Valentine Quiguki",
+                "Luxury Dark and Earth Faerie Snowglobe",
+                "Soup Faerie Snowglobe",
+                "Jhuidah Snowglobe",
+                "Rainbow Scooter",
+                "Summer Fun Quiguki",
+                "Blue PaintBrush Collectable Charm",
+                "Shenkuu Snowglobe",
+                "Neopets 21st Birthday Goodie Bag",
+                "Feather Bow and Arrow",
+                "Siyana Doll",
+                "Red Wocky Balloon",
+                "Tooth Faerie Snowglobe",
+                "What What What Stick",
+                "Tigerfruit Collectable Charm",
+                "Halloween Y14 Goodie Bag",
+                "Snot Slingshot",
+                "Usukicon Y22 Goodie Bag",
+                "Happy Halloween Bag",
+                "Faerie Buzz Plushie Collectable Charm",
+                "Glowing Mushrooms",
+                "Snot Blocks",
+                "Blue Turtum Ball",
+                "Candy Cane Stocking",
+                "Magical Green Elephante Toy",
+                "Mutant Golf Club",
+                "Clock",
+                "Neopets 17th Birthday Goodie Bag",
+                "Starry Stocking"
+            ],
+            "#99ffcc": [
+                "Cheery Holiday Bruce Goodie Bag",
+                "Chuckles Pinata",
+                "Grundo Pinata"
             ]
         }
     }
