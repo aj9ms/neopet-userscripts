@@ -361,11 +361,19 @@
                 "Disturbing Gelatin",
                 "Holiday Gingerbread Mansion",
                 "Brains and Dumplings"
+            ],
+            "#e6e6e6": [
+                "Snorkle Snout"
             ]
         },
         "37": {
-            "#ff99cc": [
+            "linear-gradient(#ff99cc, white)": [
+                "Maractite Ice Lolly",
+                "Hamarama Ice Lolly",
+                "Angelic Ice Lolly",
                 "Magical Pea Chia Pop",
+            ],
+            "#ff99cc": [
                 "Magical Asparagus Chia Pop",
                 "Magical Grape Chia Pop",
                 "Magical Apple Chia Pop",
@@ -387,16 +395,17 @@
                 "Magical Blueberry Chia Pop",
                 "Magical Aubergine Chia Pop",
                 "Magical Plum Chia Pop",
-                "Tartan Chia Pop",
                 "Banana Split Chia Pop",
                 "Magical Lemon Chia Pop",
                 "Magical Onion Chia Pop",
                 "Magical Strawberry Chia Pop",
-                "Angelic Ice Lolly",
-                "Hamarama Ice Lolly",
-                "Maractite Ice Lolly",
-                "Frozen Negg",
                 "Crystal Turkey"
+            ],
+            "#99ffcc": [
+                "Frozen Negg",
+                "Tartan Chia Pop",
+                "Crystal Taco",
+                "Borovan in a Cone"
             ]
         },
         "51": {
