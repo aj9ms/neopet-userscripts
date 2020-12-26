@@ -666,6 +666,44 @@
                 "Igneots Cavern Stamp"
             ],
             "#e6e6e6": []
+        },
+        "68": {
+            "linear-gradient(#ff99cc, white)": [
+                "Large Black Collectable Scarab",
+                "Scowling Sloth Coin",
+                "Smiling Space Faerie Coin",
+                "Money Tree Coin",
+                "Rainbow Pool Coin",
+                "Neopian Times Coin",
+                "Emerald Eyrie Coin"
+            ],
+            "#ff99cc": [
+                "Red Striped Collectable Scarab",
+                "PaintBrush Coin",
+                "Silver Babaa Coin",
+                "Spotted Blue Collectable Scarab",
+                "Black and Yellow Collectable Scarab",
+                "Larnikin Coin",
+                "Defenders Of Neopia Coin",
+                "Dr Sloth Coin",
+                "Giant Ghostkerchief Coin",
+                "Crystal Kauvara Coin",
+                "Hasee Coin",
+                "Dazzling Verdant Collectable Scarab",
+                "Sparkleback Collectable Scarab",
+                "Neopet V2 Coin",
+                "Bzzt Blaster Coin",
+                "Gorix and Cylara Coin"
+            ],
+            "#99ffcc": [
+                "Brass Usuki Coin",
+                "Mallow Coin",
+                "Turtum Coin",
+                "Greater Yellow Collectable Scarab",
+                "Eliv Thade Coin",
+                "Book Coin",
+                "Silver Buzzer Coin"
+            ]
         }
     }
 }
