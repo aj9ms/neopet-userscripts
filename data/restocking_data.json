@@ -185,13 +185,13 @@
         },
         "86": {
             "linear-gradient(#ff99cc, white)": [
-                "Tiny Golden Shell",
                 "Choker of the Deep",
                 "Floral Maractite Coin",
                 "Dazzling Blue Mussel Shell",
                 "Anklet of the Deep"
             ],
             "#ff99cc": [
+                "Tiny Golden Shell",
                 "Maraquan Draik Maractite Coin",
                 "Purple Twirly Shell",
                 "Royal Orange Cowry Shell",
