@@ -447,7 +447,6 @@
                 "Scroll of Hunger"
             ],
             "#e6e6e6": [
-                "Lost Desert Weather Guide"
             ]
         },
         "7": {
@@ -703,6 +702,11 @@
                 "Darigan Citadel Stamp",
                 "Luperus Centre Head Stamp",
                 "Dark Faerie Stamp"
+            ],
+            "#a6a6a6": [
+                "Orrin Stamp",
+                "Illusen Stamp",
+                "Astronomy Club Stamp"
             ]
         },
         "68": {
