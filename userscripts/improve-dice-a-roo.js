@@ -4,7 +4,7 @@
 // @match       http://www.neopets.com/games/play_dicearoo.phtml
 // @grant       none
 // @version     1.0
-// @author      sangyx
+// @author      aj9ms
 // @description Script runs when playing dice-a-roo.  Removes the "Stop playing and collect __ NP" button, and also widens the box above to fit more text on one line.
 // ==/UserScript==
 
