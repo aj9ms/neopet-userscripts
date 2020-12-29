@@ -4,6 +4,8 @@ This repo will host userscripts and/or data files related to userscripts to make
 
 ## Restocking Highlighter
 
+**Note:** This script is undeniably against ToS, but it's almost impossible to track unless you're getting ALL the high profit items (which I'm too slow for because I don't use an auto-haggler script - maybe I should?).  It's part of the reason why I haven't committed the actual userscript.
+
 This is the JSON file I use for highlighting restockable items in Neopets.  I have a separate Violentmonkey userscript that runs on every Neopets shop (https://www.neopets.com/objects.phtml + query strings that are searched in the script), but will not be committing that here for personal greed.
 
 Currently, this JSON file is manually updated and maintained, hence the number of commits in the history.  The eventual goal is to create a UI and maintain a local DB (while uploading schema/data on every applicable commit) that allows better color customization and automates adding and removing items based on restocking guides.
