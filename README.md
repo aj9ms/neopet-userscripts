@@ -36,3 +36,16 @@ This is a simple Violentmonkey userscript that runs on dice-a-roo games.  It doe
 1. It expands the width and height of the dice result explanation box.  This is so that the "roll again" button doesn't move around depending on what the result is.  The only exceptions are: when the Pant Devil steals an item, when you receive a lottery ticket, and when you receive an item.
 2. Removes the "Stop playing and collect __ NP" button so you don't accidentally click it.
 
+## Beta Shop Wizard Search
+
+This improves the current shop wizard search, ALTHOUGH this may also *break Neopets TOS*.  Use at your own risk, as there is very little chance these scripts are trackable anyway.
+
+If you want to make the script TOS SAFER, remove the last line in the `handlePaste` function: `$('.button-search-white').click();`
+
+If you want to make the script *completely TOS safe*, remove ALL of the `handlePaste` function AND this line: `document.addEventListener('paste', handlePaste);`.  Note that the only thing the script will now do is #1 below.
+
+This script does the following:
+1. It changes the search dropdown from "Containing my phrase" to "Identical to."
+2. **IF you use the paste key (CTRL+V)** - meaning you have an item to search for in your clipboard - the script will:
+    - Paste the item name into the search box (you DO NOT have to select the search box manually)
+    - Hit the search button for you
