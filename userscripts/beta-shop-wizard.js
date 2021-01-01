@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      aj9ms
-// @description Script runs when on the shop wizard page.  Tries to retrieve copied text and pastes it into the search bar if available.  Changes dropdown from "Containing my phrase" to "Identical to."
+// @description Script runs when on the shop wizard page.  When using paste shortcut keys on the page (Ctrl+V), it will populate value in search box and search for you.  Changes dropdown from "Containing my phrase" to "Identical to."
 // ==/UserScript==
 
 // Run program
