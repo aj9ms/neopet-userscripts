@@ -109,6 +109,14 @@
             ]
         },
         "73": {
+            "#ff99cc": [
+                "Energising Elixir",
+                "Strength Serum",
+                "Elixir of Levelling",
+                "Kaylas Super Special Potion",
+                "Potion of Doldrums",
+                "Potato Potion"
+            ],
             "#99ffcc": [
                 "Mano Root Elixir",
                 "Essence of Drackonack",
@@ -121,14 +129,6 @@
                 "Illusens Forest Essence",
                 "Bullseye Potion",
                 "Meridellian Potion of Defence"
-            ],
-            "#ff99cc": [
-                "Energising Elixir",
-                "Strength Serum",
-                "Elixir of Levelling",
-                "Kaylas Super Special Potion",
-                "Potion of Doldrums",
-                "Potato Potion"
             ]
         },
         "13": {
@@ -446,8 +446,7 @@
                 "Advanced Curses",
                 "Scroll of Hunger"
             ],
-            "#e6e6e6": [
-            ]
+            "#e6e6e6": []
         },
         "7": {
             "#ff99cc": [
@@ -912,6 +911,66 @@
                 "Desert Chia Morphing Potion",
                 "Maraquan Hissi Morphing Potion",
                 "Christmas Magic Hat"
+            ]
+        },
+        "8": {
+            "linear-gradient(#ff99cc, white)": [
+                "Little Timmy",
+                "Nocan Vish",
+                "Khan the Unstoppable",
+                "Lord Kass Card",
+                "Extreme Herder",
+                "Enchanted Ixi",
+                "Captain Xelqued",
+                "Lord Darigan",
+                "Sergeant Brexis",
+                "Kyrii Sorceror",
+                "Marillis Harbane",
+                "The Tax Beast",
+                "Gilly the Usul",
+                "Duel Bazuka",
+                "Professor Kachevski",
+                "Draconus Maximus",
+                "Siona",
+                "Swamp Ghoul",
+                "Punchbag Bob",
+                "Lady Quintara",
+                "Champion",
+                "Meruth",
+                "Master Vex",
+                "The Incredible Grarrl",
+                "Zeirn the Electric Kougra",
+                "Branston the Eyrie",
+                "Jeran",
+                "Kalandra",
+                "Krawk Swashbuckler",
+                "Wock Til You Drop",
+                "Zafara Double Agent"
+            ],
+            "#ff99cc": [
+                "Sargug",
+                "Neopet Version Two",
+                "Space Krawk",
+                "Valrigard",
+                "The Hairy Tongue Beast",
+                "Zygorax",
+                "Iskha Lightbringer",
+                "Shylock Usulski",
+                "Deckswabber",
+                "Jhudora the Dark Faerie"
+            ],
+            "#99ffcc": [
+                "Mr. Chuckles",
+                "Scauderwelsch",
+                "Mechanoid Warrior",
+                "Grotson",
+                "Illusen the Earth Faerie",
+                "Gedda Happycheek",
+                "Hubrid Nox",
+                "The Shop Wizard",
+                "Margoreth",
+                "Treasure Seekers",
+                "Taelia The Snow Faerie"
             ]
         }
     }
