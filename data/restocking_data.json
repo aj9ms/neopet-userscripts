@@ -193,13 +193,13 @@
                 "Anklet of the Deep"
             ],
             "#ff99cc": [
-                "Tiny Golden Shell",
                 "Maraquan Draik Maractite Coin",
                 "Purple Twirly Shell",
                 "Royal Orange Cowry Shell",
                 "Streaked Maractite Coin"
             ],
             "#99ffcc": [
+                "Tiny Golden Shell",
                 "Golden Shell",
                 "Large Maractite Coin",
                 "Exquisite Peophin Ring of the Deep",
@@ -708,9 +708,11 @@
             ],
             "#a6a6a6": [
                 "Orrin Stamp",
-                "Illusen Stamp",
                 "Astronomy Club Stamp",
-                "Thoughtful Linae Stamp"
+                "Thoughtful Linae Stamp",
+                "Desert Paintbrush Stamp",
+                "Finneus Stamp",
+                "Snowager Stamp"
             ]
         },
         "68": {
@@ -751,6 +753,9 @@
                 "Silver Buzzer Coin",
                 "Super Nova Coin",
                 "Golden Scarab Coin"
+            ],
+            "#e6e6e6": [
+                "Zoomik Coin"
             ]
         },
         "2": {
@@ -912,7 +917,9 @@
                 "Baby Scorchio Morphing Potion",
                 "Desert Chia Morphing Potion",
                 "Maraquan Hissi Morphing Potion",
-                "Christmas Magic Hat"
+                "Christmas Magic Hat",
+                "Blue Draik Morphing Potion",
+                "Plushie Wocky Morphing Potion"
             ]
         },
         "8": {
@@ -972,7 +979,8 @@
                 "The Shop Wizard",
                 "Margoreth",
                 "Treasure Seekers",
-                "Taelia The Snow Faerie"
+                "Taelia The Snow Faerie",
+                "Garrox5 The Grundo Trooper"
             ]
         },
         "98": {
