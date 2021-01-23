@@ -100,13 +100,10 @@
                 "Speckled Negg"
             ],
             "#e6e6e6": [
-                "Aisha Tomato and Potato Soup",
                 "Raspberry Baby JubJub Lollypop",
-                "Mint Chip Skeith Cone",
-                "Deep-Fried Okra",
-                "Small Fizzy Drink",
                 "Kadoatie Puffs",
-                "Minty Aisha Sundae"
+                "Minty Aisha Sundae",
+                "Mosaic Negg"
             ]
         },
         "73": {
@@ -584,7 +581,8 @@
                 "Cheery Holiday Bruce Goodie Bag",
                 "Chuckles Pinata",
                 "Grundo Pinata",
-                "Eyeball Halloween Goodie Bag"
+                "Eyeball Halloween Goodie Bag",
+                "Abominable Snowball Bobblehead"
             ]
         },
         "58": {
@@ -704,7 +702,8 @@
                 "Darigan Citadel Stamp",
                 "Luperus Centre Head Stamp",
                 "Dark Faerie Stamp",
-                "Super Bright Rainbow Pool Stamp"
+                "Super Bright Rainbow Pool Stamp",
+                "Dark Qasala Stamp"
             ],
             "#a6a6a6": [
                 "Orrin Stamp",
@@ -712,7 +711,8 @@
                 "Thoughtful Linae Stamp",
                 "Desert Paintbrush Stamp",
                 "Finneus Stamp",
-                "Snowager Stamp"
+                "Snowager Stamp",
+                "Jade Scorchstone Stamp"
             ]
         },
         "68": {
@@ -919,7 +919,10 @@
                 "Maraquan Hissi Morphing Potion",
                 "Christmas Magic Hat",
                 "Blue Draik Morphing Potion",
-                "Plushie Wocky Morphing Potion"
+                "Plushie Wocky Morphing Potion",
+                "Dimensional Shoyru Morphing Potion",
+                "Faerie Buzz Morphing Potion",
+                "Faerie Tuskaninny Morphing Potion"
             ]
         },
         "8": {
@@ -1205,7 +1208,8 @@
                 "Halloween Moehog Plushie",
                 "Faerie Kougra Plushie",
                 "Grey Negg Plushie",
-                "Hagan Plushie"
+                "Hagan Plushie",
+                "Starry Fuzzle"
             ]
         }
     }
