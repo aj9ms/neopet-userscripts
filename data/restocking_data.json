@@ -21,7 +21,8 @@
                 "Puzzle Fruit",
                 "Rainbow Carrot",
                 "Big Gulp Neocola",
-                "Golden Caviar"
+                "Golden Caviar",
+                "Borovan Layered Cake"
             ],
             "#ff99cc": [
                 "Plum",
@@ -64,7 +65,10 @@
                 "Lawyerbot Degreaser",
                 "Cheesy Choco Cookie",
                 "Assorted Vandagyre Approved Nuts",
-                "Welsh Rarebit"
+                "Welsh Rarebit",
+                "Cheesy Chocoshake",
+                "Cheesy Chokato Pie",
+                "Purple Picnic Hamper"
             ],
             "#99ffcc": [
                 "Negg",
@@ -127,7 +131,8 @@
                 "Twisted Potion of Strength",
                 "Illusens Forest Essence",
                 "Bullseye Potion",
-                "Meridellian Potion of Defence"
+                "Meridellian Potion of Defence",
+                "Therapeutic Swamp Water"
             ]
         },
         "13": {
@@ -221,7 +226,8 @@
                 "Lemon and Lime Easter Negg",
                 "Luxury Chocolate Easter Negg",
                 "Strawberries and Cream Easter Negg",
-                "Chocolate Advent Calendar"
+                "Chocolate Advent Calendar",
+                "Borovan Hot Chocolate Bomb"
             ],
             "#ff99cc": [
                 "Chocolate Orange Easter Negg",
@@ -705,7 +711,9 @@
                 "Luperus Centre Head Stamp",
                 "Dark Faerie Stamp",
                 "Super Bright Rainbow Pool Stamp",
-                "Dark Qasala Stamp"
+                "Dark Qasala Stamp",
+                "The Krawken Stamp",
+                "Blumaroo Court Jester Stamp"
             ],
             "#a6a6a6": [
                 "Orrin Stamp",
@@ -1213,7 +1221,8 @@
                 "Faerie Kougra Plushie",
                 "Grey Negg Plushie",
                 "Hagan Plushie",
-                "Starry Fuzzle"
+                "Starry Fuzzle",
+                "Darigan Krawk Plushie"
             ]
         }
     }
