@@ -1254,6 +1254,58 @@
                 "Fire Faerie Mushroom",
                 "Water Faerie Mushroom"
             ]
+        },
+        "20": {
+            "linear-gradient(#ff99cc, white)": [
+                "Blue Doughnutfruit",
+                "Pink Chokato",
+                "Bubbling Kraku Thickshake",
+                "Purple Doughnutfruit",
+                "Songray",
+                "Zibblifruit",
+                "Rainbow Doughnutfruit",
+                "Icy Doughnutfruit",
+                "TeaLeef",
+                "Fiery Doughnutfruit",
+                "Golden Doughnutfruit",
+                "Fish Doughnutfruit",
+                "Yellow Doughnutfruit",
+                "Silver Doughnutfruit",
+                "Checkered Doughnutfruit",
+                "Green Doughnutfruit",
+                "Plantcake",
+                "Sponge Doughnutfruit",
+                "Zeenana",
+                "Marafalop"
+            ],
+            "#ff99cc": [
+                "Tigerbuggles",
+                "Bludberry",
+                "Ugly Pinanna",
+                "Vein Cabbage",
+                "Evil Pinanna",
+                "Pinanna Plus",
+                "Cornupepper",
+                "Strange Pinanna",
+                "Doughnutfruit",
+                "Tigersquash",
+                "Chokato",
+                "Green Chyrsaberry",
+                "Tigerfruit",
+                "Thornberry",
+                "Strong Berry",
+                "Lavaberry",
+                "Fresh Lobster Tail"
+            ],
+            "#99ffcc": [
+                "Purple Juppie Slurpbowl",
+                "Strawberry Salmon",
+                "Phear",
+                "Tigermelon",
+                "Roe Sushi",
+                "Gelupepper",
+                "ErgyFruit"
+            ]
         }
     }
 }
