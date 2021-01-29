@@ -274,8 +274,6 @@
                 "Gnorbu Lollipop",
                 "Lime Skidget Lolly",
                 "Kau Sundae",
-                "Sugar Moehog Skull",
-                "Mud Lollipop",
                 "Chocolate Balthazar"
             ],
             "#e6e6e6": [
@@ -371,7 +369,6 @@
                 "Pink Spooky Popcorn",
                 "Carnivorous Carved Pumpkin",
                 "Raspberry Ghostkerchief Jelly",
-                "Jalapeno Cheese Nightmare",
                 "Disturbing Gelatin",
                 "Holiday Gingerbread Mansion",
                 "Brains and Dumplings"
@@ -1223,6 +1220,39 @@
                 "Hagan Plushie",
                 "Starry Fuzzle",
                 "Darigan Krawk Plushie"
+            ]
+        },
+        "112": {
+            "#99ffcc": [
+                "Red Moltite Popsicle"
+            ]
+        },
+        "39": {
+            "linear-gradient(#ff99cc, white)": [
+                "Ultra Nova Pop",
+                "Fyora Apple",
+                "Grey Faerie Mushroom",
+                "Space Faerie Mushroom",
+                "Faerie Dreamwich",
+                "Faerie Sparklecake"
+            ],
+            "#ff99cc": [
+                "Faerie Fruit Salad",
+                "Light Faerie Mushroom",
+                "Fire Faerie Red Pepper",
+                "Soup Faerie Mushroom",
+                "Faerie Chocodrop"
+            ],
+            "#99ffcc": [
+                "Deluxe Fyora Day Cake",
+                "Faerie Block Mallows",
+                "Sugar Coated Leaf",
+                "Dark Nova Pop",
+                "Earth Faerie Mushroom",
+                "Bacon Belly Buster",
+                "Dark Faerie Mushroom",
+                "Fire Faerie Mushroom",
+                "Water Faerie Mushroom"
             ]
         }
     }
