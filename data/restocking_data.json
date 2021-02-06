@@ -106,7 +106,9 @@
                 "Thistleberry Sandwich",
                 "Pickled Onion",
                 "Roast Chestnut Neggnog",
-                "Vanilla Neocola"
+                "Vanilla Neocola",
+                "Faeriemoya",
+                "Baked Avocado with Curried Sauce"
             ],
             "#e6e6e6": [
                 "Raspberry Baby JubJub Lollypop",
@@ -682,12 +684,11 @@
                 "Scowling Sloth Coin",
                 "Smiling Space Faerie Coin",
                 "Money Tree Coin",
-                "Rainbow Pool Coin",
                 "Neopian Times Coin",
-                "Emerald Eyrie Coin"
+                "Emerald Eyrie Coin",
+                "Red Striped Collectable Scarab"
             ],
             "#ff99cc": [
-                "Red Striped Collectable Scarab",
                 "PaintBrush Coin",
                 "Silver Babaa Coin",
                 "Spotted Blue Collectable Scarab",
@@ -702,7 +703,8 @@
                 "Sparkleback Collectable Scarab",
                 "Neopet V2 Coin",
                 "Bzzt Blaster Coin",
-                "Gorix and Cylara Coin"
+                "Gorix and Cylara Coin",
+                "Rainbow Pool Coin"
             ],
             "#99ffcc": [
                 "Brass Usuki Coin",
@@ -885,7 +887,8 @@
                 "Faerie Buzz Morphing Potion",
                 "Faerie Tuskaninny Morphing Potion",
                 "Desert Kacheek Morphing Potion",
-                "Plushie Tuskaninny Morphing Potion"
+                "Plushie Tuskaninny Morphing Potion",
+                "Faerie Blumaroo Morphing Potion"
             ]
         },
         "8": {
@@ -1172,7 +1175,8 @@
                 "Grey Negg Plushie",
                 "Hagan Plushie",
                 "Starry Fuzzle",
-                "Darigan Krawk Plushie"
+                "Darigan Krawk Plushie",
+                "Rainbow Cybunny Plushie"
             ]
         },
         "112": {
