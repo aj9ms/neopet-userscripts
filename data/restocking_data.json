@@ -68,7 +68,8 @@
                 "Welsh Rarebit",
                 "Cheesy Chocoshake",
                 "Cheesy Chokato Pie",
-                "Purple Picnic Hamper"
+                "Purple Picnic Hamper",
+                "Turkey Drumstick Dinner"
             ],
             "#99ffcc": [
                 "Negg",
@@ -114,7 +115,8 @@
                 "Raspberry Baby JubJub Lollypop",
                 "Kadoatie Puffs",
                 "Minty Aisha Sundae",
-                "Mosaic Negg"
+                "Mosaic Negg",
+                "Valentines Day Strawberry Bouquet"
             ]
         },
         "73": {
@@ -890,7 +892,8 @@
                 "Faerie Tuskaninny Morphing Potion",
                 "Desert Kacheek Morphing Potion",
                 "Plushie Tuskaninny Morphing Potion",
-                "Faerie Blumaroo Morphing Potion"
+                "Faerie Blumaroo Morphing Potion",
+                "Pink Draik Morphing Potion"
             ]
         },
         "8": {
@@ -1178,7 +1181,8 @@
                 "Hagan Plushie",
                 "Starry Fuzzle",
                 "Darigan Krawk Plushie",
-                "Rainbow Cybunny Plushie"
+                "Rainbow Cybunny Plushie",
+                "Valentines Kadoatie Plushie"
             ]
         },
         "112": {
@@ -1402,6 +1406,14 @@
                 "Palace Guard Sword",
                 "Uni Hoof Magnet",
                 "Taelias Snowball"
+            ]
+        },
+        "62": {
+            "linear-gradient(#ff99cc, white)": [
+                "Floral Jelly"
+            ],
+            "#99ffcc": [
+                "Moulded Jelly Dessert"
             ]
         }
     }
