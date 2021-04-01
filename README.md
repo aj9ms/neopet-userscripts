@@ -4,11 +4,11 @@ This repo will host userscripts and/or data files related to userscripts to make
 
 ## Restocking Highlighter
 
-**Note:** This script is undeniably against ToS, but it's almost impossible to track unless you're getting ALL the high profit items (which I'm too slow for because I don't use an auto-haggler script - maybe I should?).  It's part of the reason why I haven't committed the actual userscript.
+**Note:** This script is against TOS.
 
-This is the JSON file I use for highlighting restockable items in Neopets.  I have a separate Violentmonkey userscript that runs on every Neopets shop (https://www.neopets.com/objects.phtml + query strings that are searched in the script), but will not be committing that here for personal greed.
+This includes the JSON file and script I use to check for profitable items.
 
-Currently, this JSON file is manually updated and maintained, hence the number of commits in the history.  The eventual goal is to create a UI and maintain a local DB (while uploading schema/data on every applicable commit) that allows better color customization and automates adding and removing items based on restocking guides.
+Currently, the JSON file is manually updated and maintained, hence the number of commits in the history.  The eventual goal is to create a UI and maintain a local DB (while uploading schema/data on every applicable commit) that allows better color customization and automates adding and removing items based on restocking guides.
 
 The file can be publicly fetched from [here](https://aj9ms.github.io/neopet-userscripts/data/restocking_data.json).
 
@@ -38,14 +38,24 @@ This is a simple Violentmonkey userscript that runs on dice-a-roo games.  It doe
 
 ## Beta Shop Wizard Search
 
-This improves the current shop wizard search, ALTHOUGH this may also *break Neopets TOS*.  Use at your own risk, as there is very little chance these scripts are trackable anyway.
-
-If you want to make the script TOS SAFER, remove the last line in the `handlePaste` function: `$('.button-search-white').click();`
-
-If you want to make the script *completely TOS safe*, remove ALL of the `handlePaste` function AND this line: `document.addEventListener('paste', handlePaste);`.  Note that the only thing the script will now do is #1 below.
+This may break TOS. Use at your own risk, IDC.
 
 This script does the following:
 1. It changes the search dropdown from "Containing my phrase" to "Identical to."
 2. **IF you use the paste key (CTRL+V)** - meaning you have an item to search for in your clipboard - the script will:
     - Paste the item name into the search box (you DO NOT have to select the search box manually)
     - Hit the search button for you
+
+## Shop Till
+
+The simplest script of all - it puts in the amount of money in your shop till if it's over 0np.
+
+# JellyNeo Userscripts
+
+## Quoted List
+
+On a search page that is *ordered by descending price*, you can check the console to see a quoted list of all the items on that page. E.g. "Item A", "Item B", "Item C", etc.
+
+## Search
+
+Similar to the beta shop wizard search, this script automatically pastes the item name into the search box and hits the search button for you when you use the paste key (CTRL+V).
