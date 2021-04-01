@@ -5,8 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      aj9ms
-// @description Script runs when on the JellyNeo search page when looking through a shop directory list of items.  
-// It gets all results on a page IF the result is sorted by price descending and then prints out a quoted list (makes it easier to create restocking-data.json.)
+// @description Script runs when on the JellyNeo search page.  Gets quoted list when searching
 // ==/UserScript==
 
 // Run program
@@ -23,10 +22,10 @@ function createList() {
     const quotedList = [];
     items.each((index, item) => {
         const itemName = item.children[2].textContent;
-        quotedList.push(itemName);
+        quotedList.push("\"" + itemName + "\"");
     });
     console.log("QUOTED LIST: ");
-    console.log(quotedList);
+    console.log(quotedList.join(","));
     console.log("END QUOTED LIST");
 }
 
