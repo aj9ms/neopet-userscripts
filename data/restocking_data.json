@@ -282,7 +282,6 @@
                 "Kougra Sugar Skull",
                 "Gnorbu Lollipop",
                 "Lime Skidget Lolly",
-                "Kau Sundae",
                 "Chocolate Balthazar"
             ],
             "#e6e6e6": [
@@ -538,10 +537,7 @@
                 "Patched Stocking"
             ],
             "#99ffcc": [
-                "Cheery Holiday Bruce Goodie Bag",
                 "Chuckles Pinata",
-                "Grundo Pinata",
-                "Eyeball Halloween Goodie Bag",
                 "Abominable Snowball Bobblehead",
                 "Maraquan Moehog Music Box",
                 "Mystery Island Snowglobe"
@@ -671,7 +667,9 @@
                 "Lost Desert Scroll Stamp",
                 "Hot Dog Hero Stamp",
                 "Zurroball Stamp",
-                "Shenkuu Mask Stamp"
+                "Shenkuu Mask Stamp",
+                "Singed Tyrannian Volcano Stamp",
+                "Shumi Telescope Stamp"
             ],
             "#a6a6a6": [
                 "Orrin Stamp",
@@ -895,7 +893,8 @@
                 "Desert Kacheek Morphing Potion",
                 "Plushie Tuskaninny Morphing Potion",
                 "Faerie Blumaroo Morphing Potion",
-                "Pink Draik Morphing Potion"
+                "Pink Draik Morphing Potion",
+                "Yellow Shoyru Morphing Potion"
             ]
         },
         "8": {
