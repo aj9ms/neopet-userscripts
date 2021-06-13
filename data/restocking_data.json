@@ -1415,6 +1415,64 @@
             "#99ffcc": [
                 "Moulded Jelly Dessert"
             ]
+        },
+        "15": {
+            "linear-gradient(#ff99cc, white)": [
+                "Cinnamon Eyrie Cookie",
+                "Chocolate Chip Eyrie Cookie",
+                "Grapefruit Cake",
+                "Chocolate Cream Biscuit",
+                "Chokato Deluxe Aisha Cake",
+                "Meepit Muffins",
+                "Double Cream Vanilla Sponge",
+                "Chia Cake",
+                "Blueberry Deluxe Cake",
+                "Dargil Meat Mince Pie",
+                "Frosted Babaa Cookies",
+                "Buttered Juppie Waffle",
+                "Chocolate Chip Quiggle Cookie",
+                "Triple Choco-Strawberry Cake"
+            ],
+            "#ff99cc": [
+                "Pterimisu",
+                "Chocolate Cherry Cheesecake",
+                "Irate Zafara Claw",
+                "Kacheek Fruit Salad Sandwich",
+                "Scamander Cookies",
+                "Vionanna Mince Pie",
+                "Chocolate Stuffed Pastry",
+                "Fyora Cookies",
+                "Blue PaintBrush Cookie",
+                "Ultimate Grilled Cheese Sandwich",
+                "Bluepepper Muffin",
+                "Lime Chomby Cake",
+                "Doglefox Bread Creature",
+                "Haiku Dessert",
+                "Hostile Quiche",
+                "Cranky Croissant",
+                "Sugar Nerkmid Biscuit",
+                "Red PaintBrush Cookie",
+                "Explosive New Year Cake",
+                "Borovan Cupcake",
+                "Desert Dessert",
+                "Snowy Pancakes",
+                "Angry Cinnamon Roll",
+                "Kacheek Baby Cabbage Sandwiches",
+                "Babaa Cake"
+            ],
+            "#99ffcc": [
+                "Transparaberry Hot Cross Buns",
+                "Chocolate Chip Nerkmid Biscuit",
+                "Kacheek Ombus Fruit Sandwich",
+                "Illusen Waffle",
+                "Choccy Chip Skeith Biscuit",
+                "Grey Grundo Muffin",
+                "Chocolate Raspberry Ganache Cake",
+                "Kacheek Cake Mix Cookies",
+                "Banana Split Swiss Roll",
+                "Hazelnut Banana Crepe",
+                "Tiered Neopets 8th Birthday Cake"
+            ]
         }
     }
 }
