@@ -660,7 +660,6 @@
                 "Darigan Citadel Stamp",
                 "Luperus Centre Head Stamp",
                 "Dark Faerie Stamp",
-                "Super Bright Rainbow Pool Stamp",
                 "Dark Qasala Stamp",
                 "The Krawken Stamp",
                 "Blumaroo Court Jester Stamp",
@@ -671,16 +670,15 @@
                 "Singed Tyrannian Volcano Stamp",
                 "Shumi Telescope Stamp",
                 "Gargarox Isafuhlarg Stamp",
-                "Wheel of Monotony Stamp"
+                "Wheel of Monotony Stamp",
+                "Zombified Heroes Stamp",
+                "Destruction of Faerieland Stamp"
             ],
             "#a6a6a6": [
                 "Orrin Stamp",
                 "Astronomy Club Stamp",
                 "Thoughtful Linae Stamp",
-                "Desert Paintbrush Stamp",
-                "Finneus Stamp",
-                "Snowager Stamp",
-                "Jade Scorchstone Stamp"
+                "Finneus Stamp"
             ]
         },
         "68": {
@@ -897,7 +895,12 @@
                 "Faerie Blumaroo Morphing Potion",
                 "Pink Draik Morphing Potion",
                 "Yellow Shoyru Morphing Potion",
-                "Christmas JubJub Morphing Potion"
+                "Christmas JubJub Morphing Potion",
+                "Blue Chomby Morphing Potion",
+                "Blue Hissi Morphing Potion",
+                "Speckled Bori Morphing Potion",
+                "Light Faerie Dust",
+                "Blue Peophin Morphing Potion"
             ]
         },
         "8": {
@@ -1187,7 +1190,8 @@
                 "Starry Fuzzle",
                 "Rainbow Cybunny Plushie",
                 "Valentines Kadoatie Plushie",
-                "Greedy Kadoatie Plushie"
+                "Greedy Kadoatie Plushie",
+                "Rainbow Ruki Plushie"
             ]
         },
         "112": {
