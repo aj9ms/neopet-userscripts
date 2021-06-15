@@ -23,7 +23,10 @@
                 "Big Gulp Neocola",
                 "Golden Caviar",
                 "Borovan Layered Cake",
-                "Cheesy Chocoshake"
+                "Cheesy Chocoshake",
+                "Chain of Onions",
+                "Christmas Negg",
+                "Lime Negg"
             ],
             "#ff99cc": [
                 "Plum",
@@ -38,6 +41,8 @@
                 "Pizza Sandwich",
                 "Kadoatie Biscuits",
                 "Bag of Peanuts",
+                "Fun Icy Cheese Pop",
+                "Invisible Cookie",
                 "Illusens Family Recipe Cake",
                 "Puntec Cupcake",
                 "Tchea Toffee Apple",
@@ -170,6 +175,7 @@
         },
         "48": {
             "#99ffcc": [
+                "Bat Thing Usuki",
                 "Cheerleader Usuki Reject",
                 "Space Prom Date Usuki Reject",
                 "Lost Desert Usuki",
@@ -194,7 +200,11 @@
                 "Magical Hair Usuki Reject",
                 "Super Hero Usuki",
                 "Ornate Usuki",
-                "Mayor Thumburt Usuki"
+                "Mayor Thumburt Usuki",
+                "Air Faerie Usuki Doll",
+                "Usuki Dream Bike",
+                "Usuki Rogue",
+                "Welsh Usuki Reject"
             ]
         },
         "86": {
@@ -434,7 +444,11 @@
                 "Trigonometry Hyperbolics",
                 "Uni Myths",
                 "The Bad Skeith",
-                "Koya Korbat Huntress"
+                "Koya Korbat Huntress",
+                "All is Well",
+                "Chomby Mysteries",
+                "Go Home Moehog!"
+
             ],
             "#e6e6e6": [
                 "A Very Tiki Holiday",
@@ -981,7 +995,9 @@
                 "Boraxis Plushie",
                 "Monoceraptor Plushie",
                 "Bat Thing Plushie",
-                "Shadow Kougra Plushie"
+                "Shadow Kougra Plushie",
+                "Bowe Plushie",
+                "Old Beaten Chokato Chia Plushie"
             ],
             "#ff99cc": [
                 "MSPP Plushie",
@@ -1300,12 +1316,8 @@
             "#ff99cc": [
                 "Super Attack Bacon",
                 "Golden Peophin Harp",
-                
-                "Chia Mites",
-                "JubJub Flame Ball",
                 "Icy Chia Goggles",
-                "Pteri Battle Whistle",
-                "Ornate Jetsam Hammer",
+                
                 "Pearl Koi Slingshot",
                 "Kyrii Swordhammer",
                 "Blade of the Battle Faerie",
@@ -1400,14 +1412,7 @@
                 "Ixi Elixir of the Woods",
                 "Mistletoe Potion",
                 "Golden Kougra Slingshot",
-                "Red Clockwork Grundo",
-                "Wooden Krawk Mallet",
-                "Regal Draik Wand",
-                "Blumaroo Battle Staff",
-                "Grape Jelly Sword",
-                "Chia Apple Bomb",
-                "Palace Guard Sword",
-                "Uni Hoof Magnet",
+
                 "Taelias Snowball"
             ]
         },
