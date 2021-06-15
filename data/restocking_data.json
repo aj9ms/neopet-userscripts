@@ -22,10 +22,12 @@
                 "Rainbow Carrot",
                 "Big Gulp Neocola",
                 "Golden Caviar",
-                "Borovan Layered Cake"
+                "Borovan Layered Cake",
+                "Cheesy Chocoshake"
             ],
             "#ff99cc": [
                 "Plum",
+                "Blue Picnic Hamper",
                 "Chokato Toffee Apple",
                 "Happy Anniversary Negg",
                 "Blue Cybunny Negg",
@@ -66,7 +68,6 @@
                 "Cheesy Choco Cookie",
                 "Assorted Vandagyre Approved Nuts",
                 "Welsh Rarebit",
-                "Cheesy Chocoshake",
                 "Cheesy Chokato Pie",
                 "Purple Picnic Hamper",
                 "Turkey Drumstick Dinner"
@@ -164,7 +165,6 @@
             "#ff99cc": [
                 "Creme Brulee Slushie",
                 "Berry Blend Slushie",
-                "Secret Sloth Slushie",
                 "Cheese Plate Slushie"
             ]
         },
@@ -485,9 +485,13 @@
                 "A Grey Faerie Doll",
                 "Malice Doll",
                 "Princess Terrana Collectable Charm",
-                "Cyodrake Collectable Charm"
+                "Cyodrake Collectable Charm",
+                "Beautiful Hair Quiguki Doll",
+                "Blushing Bride Quiguki Doll",
+                "Floud Balloon"
             ],
             "#ff99cc": [
+                "Hannah Quiguki",
                 "Traditional Welsh Quiguki",
                 "Year 9 Quiguki",
                 "Ballerina Quiguki",
@@ -496,6 +500,7 @@
                 "Luxury Dark and Light Faerie Snowglobe",
                 "Negg Faerie Snowglobe",
                 "Taelia Quiguki",
+                "King Skarl Quiguki",
                 "King Hagan Quiguki",
                 "Quiguki Mermaid",
                 "Quiguki Prom Queen",
@@ -564,7 +569,9 @@
                 "Lord Kass Stamp",
                 "King Jazan Stamp",
                 "Holographic Magax Stamp",
-                "Holographic Coltzans Shrine Stamp"
+                "Holographic Coltzans Shrine Stamp",
+                "Igneot Stamp",
+                "Xantan Stamp"
             ],
             "#ff99cc": [
                 "Misprint Meuka Stamp",
@@ -619,6 +626,7 @@
                 "Grundo Warehouse Stamp",
                 "Lucky Coin Stamp",
                 "Morris Stamp",
+                "Mipsy Stamp",
                 "Northern Watch Tower Stamp",
                 "Igneots Cavern Stamp",
                 "Nabile Stamp",
@@ -718,7 +726,8 @@
                 "Book Coin",
                 "Silver Buzzer Coin",
                 "Super Nova Coin",
-                "Golden Scarab Coin"
+                "Golden Scarab Coin",
+                "Snow PaintBrush Coin"
             ],
             "#e6e6e6": [
                 "Zoomik Coin"
@@ -878,7 +887,8 @@
                 "Baby Blumaroo Morphing Potion",
                 "Halloween Blumaroo Morphing Potion",
                 "Plushie Grundo Morphing Potion",
-                "Faerie Peophin Morphing Potion"
+                "Faerie Peophin Morphing Potion",
+                "Zombie JubJub Morphing Potion"
             ],
             "#99ffcc": [
                 "Baby Scorchio Morphing Potion",
@@ -1289,21 +1299,8 @@
             ],
             "#ff99cc": [
                 "Super Attack Bacon",
-                "Enchanted Ixi Wand",
-                "Brass Bruce Horn Of Deafening",
                 "Golden Peophin Harp",
-                "Draik Enhancement Brew",
-                "Spotted Kau Sword",
-                "Maraquan Aisha Bow",
-                "Blade of Ultranova",
-                "Dark Faerie Token",
-                "Moehog Crossbow",
-                "Ruby Krawk Stun Ray",
-                "Moehog Slingshot",
-                "Brilliant Poogle Wand",
-                "Enhanced Acara Potion",
-                "Glowing Tuskaninny Wand",
-                "Sack Of Kougranip",
+                
                 "Chia Mites",
                 "JubJub Flame Ball",
                 "Icy Chia Goggles",
@@ -1335,8 +1332,6 @@
                 "Eyrie Pocket Catapult",
                 "Techo Dagger Of Speed",
                 "Uni Charm",
-                "Apple Jelly Club",
-                "Tuskaninny Personal Cannon",
                 "Pirate Slingshot",
                 "Clockwork Nimmo",
                 "Poogle Slingshot",
@@ -1426,6 +1421,11 @@
         },
         "15": {
             "linear-gradient(#ff99cc, white)": [
+                "Blackberry Eyrie Cookie",
+                "Creamy Chocolate Pie",
+                "Gooseberry Crepe",
+                "Minty Eyrie Cookie",
+                "Stack It High Cake",
                 "Cinnamon Eyrie Cookie",
                 "Chocolate Chip Eyrie Cookie",
                 "Grapefruit Cake",
