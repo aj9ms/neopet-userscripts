@@ -45,6 +45,7 @@
                 "Invisible Cookie",
                 "Illusens Family Recipe Cake",
                 "Puntec Cupcake",
+                "Super Icy Custard",
                 "Tchea Toffee Apple",
                 "Glowing Apple",
                 "Chocolate Joy Fun Pop",
@@ -693,8 +694,7 @@
                 "Shumi Telescope Stamp",
                 "Gargarox Isafuhlarg Stamp",
                 "Wheel of Monotony Stamp",
-                "Zombified Heroes Stamp",
-                "Destruction of Faerieland Stamp"
+                "Zombified Heroes Stamp"
             ],
             "#a6a6a6": [
                 "Orrin Stamp",
@@ -902,7 +902,7 @@
                 "Halloween Blumaroo Morphing Potion",
                 "Plushie Grundo Morphing Potion",
                 "Faerie Peophin Morphing Potion",
-                "Zombie JubJub Morphing Potion"
+                "Rainbow Kacheek Morphing Potion"
             ],
             "#99ffcc": [
                 "Baby Scorchio Morphing Potion",
@@ -924,7 +924,9 @@
                 "Blue Hissi Morphing Potion",
                 "Speckled Bori Morphing Potion",
                 "Light Faerie Dust",
-                "Blue Peophin Morphing Potion"
+                "Zombie JubJub Morphing Potion",
+                "Blue Peophin Morphing Potion",
+                "Disco Acara Morphing Potion"
             ]
         },
         "8": {
