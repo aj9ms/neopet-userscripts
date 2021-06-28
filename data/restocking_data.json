@@ -118,7 +118,9 @@
                 "Vanilla Neocola",
                 "Faeriemoya",
                 "Baked Avocado with Curried Sauce",
-                "Frozen Veggie Delight"
+                "Frozen Veggie Delight",
+                "Congratulations Negg",
+                "Squibble Berry Sandwich"
             ],
             "#e6e6e6": [
                 "Raspberry Baby JubJub Lollypop",
@@ -211,6 +213,7 @@
         },
         "86": {
             "linear-gradient(#ff99cc, white)": [
+                "Golden Shell",
                 "Choker of the Deep",
                 "Floral Maractite Coin",
                 "Dazzling Blue Mussel Shell",
@@ -224,7 +227,6 @@
             ],
             "#99ffcc": [
                 "Tiny Golden Shell",
-                "Golden Shell",
                 "Large Maractite Coin",
                 "Exquisite Peophin Ring of the Deep",
                 "Diadem of the Deep"
@@ -450,7 +452,6 @@
                 "All is Well",
                 "Chomby Mysteries",
                 "Go Home Moehog!"
-
             ],
             "#e6e6e6": [
                 "A Very Tiki Holiday",
@@ -555,7 +556,8 @@
                 "Clock",
                 "Neopets 17th Birthday Goodie Bag",
                 "Starry Stocking",
-                "Patched Stocking"
+                "Patched Stocking",
+                "Snowflake Stocking"
             ],
             "#99ffcc": [
                 "Chuckles Pinata",
@@ -713,40 +715,38 @@
                 "Money Tree Coin",
                 "Neopian Times Coin",
                 "Emerald Eyrie Coin",
-                "Red Striped Collectable Scarab"
+                "Red Striped Collectable Scarab",
+                "PaintBrush Coin",
+                "Spotted Blue Collectable Scarab",
+                "Black and Yellow Collectable Scarab"
             ],
             "#ff99cc": [
-                "PaintBrush Coin",
-                "Silver Babaa Coin",
-                "Spotted Blue Collectable Scarab",
-                "Black and Yellow Collectable Scarab",
-                "Larnikin Coin",
-                "Defenders Of Neopia Coin",
-                "Dr Sloth Coin",
-                "Giant Ghostkerchief Coin",
-                "Crystal Kauvara Coin",
-                "Hasee Coin",
                 "Dazzling Verdant Collectable Scarab",
-                "Sparkleback Collectable Scarab",
-                "Neopet V2 Coin",
-                "Bzzt Blaster Coin",
-                "Gorix and Cylara Coin",
-                "Rainbow Pool Coin"
+                "Giant Ghostkerchief Coin",
+                "Larnikin Coin",
+                "Dr Sloth Coin",
+                "Crystal Kauvara Coin",
+                "Defenders Of Neopia Coin",
+                "Hasee Coin",
+                "Rainbow Pool Coin",
+                "Silver Babaa Coin",
+                "Sparkleback Collectable Scarab"
             ],
             "#99ffcc": [
+                "Neopet V2 Coin",
+                "Bzzt Blaster Coin",
                 "Brass Usuki Coin",
-                "Mallow Coin",
-                "Turtum Coin",
+                "Gorix and Cylara Coin",
                 "Greater Yellow Collectable Scarab",
+                "Turtum Coin",
+                "Mallow Coin",
                 "Eliv Thade Coin",
                 "Book Coin",
                 "Silver Buzzer Coin",
+                "Snow PaintBrush Coin",
                 "Super Nova Coin",
-                "Golden Scarab Coin",
-                "Snow PaintBrush Coin"
-            ],
-            "#e6e6e6": [
-                "Zoomik Coin"
+                "Goo Blaster Coin",
+                "Golden Scarab Coin"
             ]
         },
         "2": {
@@ -905,7 +905,8 @@
                 "Plushie Grundo Morphing Potion",
                 "Faerie Peophin Morphing Potion",
                 "Rainbow Kacheek Morphing Potion",
-                "Halloween Cybunny Morphing Potion"
+                "Halloween Cybunny Morphing Potion",
+                "Pirate Kacheek Morphing Potion"
             ],
             "#99ffcc": [
                 "Baby Scorchio Morphing Potion",
@@ -932,7 +933,8 @@
                 "Disco Acara Morphing Potion",
                 "Faerie Nimmo Morphing Potion",
                 "Shadow Chomby Morphing Potion",
-                "Baby Shoyru Morphing Potion"
+                "Baby Shoyru Morphing Potion",
+                "Rainbow Kau Morphing Potion"
             ]
         },
         "8": {
@@ -1325,7 +1327,6 @@
                 "Super Attack Bacon",
                 "Golden Peophin Harp",
                 "Icy Chia Goggles",
-                
                 "Pearl Koi Slingshot",
                 "Kyrii Swordhammer",
                 "Blade of the Battle Faerie",
@@ -1420,7 +1421,6 @@
                 "Ixi Elixir of the Woods",
                 "Mistletoe Potion",
                 "Golden Kougra Slingshot",
-
                 "Taelias Snowball"
             ]
         },
