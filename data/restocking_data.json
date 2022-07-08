@@ -228,7 +228,8 @@
                 "Cookie Negg",
                 "Knowledge Hungry Burger",
                 "Grey Waffles",
-                "Noil Candy Floss"
+                "Noil Candy Floss",
+                "Vanilla Neocola"
             ],
             "#e6e6e6": [
                 "Mosaic Negg",
@@ -582,8 +583,6 @@
                 "Diary of a Baby Space Fungus"
             ],
             "#e6e6e6": [
-                "Grundos In Space",
-                "Howl"
             ]
         },
         "3": {
@@ -662,7 +661,8 @@
                 "Neopets 17th Birthday Goodie Bag",
                 "Starry Stocking",
                 "Patched Stocking",
-                "Snowflake Stocking"
+                "Snowflake Stocking",
+                "Mutant Kiko Yoyo"
             ],
             "#99ffcc": [
                 "Chuckles Pinata",
@@ -1011,7 +1011,8 @@
                 "Faerie Peophin Morphing Potion",
                 "Rainbow Kacheek Morphing Potion",
                 "Halloween Cybunny Morphing Potion",
-                "Pirate Kacheek Morphing Potion"
+                "Pirate Kacheek Morphing Potion",
+                "Maraquan Meerca Morphing Potion"
             ],
             "#99ffcc": [
                 "Baby Scorchio Morphing Potion",
@@ -1039,7 +1040,9 @@
                 "Faerie Nimmo Morphing Potion",
                 "Shadow Chomby Morphing Potion",
                 "Baby Shoyru Morphing Potion",
-                "Rainbow Kau Morphing Potion"
+                "Rainbow Kau Morphing Potion",
+                "Island Poogle Morphing Potion",
+                "Island Eyrie Morphing Potion"
             ]
         },
         "8": {
@@ -1590,7 +1593,6 @@
                 "Transparaberry Hot Cross Buns",
                 "Chocolate Chip Nerkmid Biscuit",
                 "Kacheek Ombus Fruit Sandwich",
-                "Illusen Waffle",
                 "Choccy Chip Skeith Biscuit",
                 "Grey Grundo Muffin",
                 "Chocolate Raspberry Ganache Cake",
