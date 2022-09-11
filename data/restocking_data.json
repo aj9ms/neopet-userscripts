@@ -667,14 +667,14 @@
                 "Starry Stocking",
                 "Patched Stocking",
                 "Snowflake Stocking",
-                "Mutant Kiko Yoyo",
                 "Usukicon Y24 Goodie Bag"
             ],
             "#99ffcc": [
                 "Chuckles Pinata",
                 "Abominable Snowball Bobblehead",
                 "Maraquan Moehog Music Box",
-                "Mystery Island Snowglobe"
+                "Mystery Island Snowglobe",
+                "Mutant Kiko Yoyo"
             ]
         },
         "58": {
@@ -1052,7 +1052,13 @@
                 "Island Poogle Morphing Potion",
                 "Island Eyrie Morphing Potion",
                 "Island Acara Morphing Potion",
-                "Camouflage Shoyru Morphing Potion"
+                "Camouflage Shoyru Morphing Potion",
+                "Flaming Torch",
+                "Water Kau Morphing Potion",
+                "Spotted Shoyru Morphing Potion",
+                "Striped Chia Morphing Potion",
+                "Woodland Peophin Morphing Potion",
+                "Darigan Blumaroo Morphing Potion"
             ]
         },
         "8": {
@@ -1365,7 +1371,6 @@
                 "Halloween Tonu Plushie",
                 "Grey Lupe Neoquest Plushie",
                 "Faerie Kougra Plushie",
-                "Angel Kiko Plushie",
                 "Grey Negg Plushie",
                 "Starry Koi Plushie",
                 "Blue Draik Plushie",
@@ -1402,7 +1407,6 @@
                 "Pirate Moehog Plushie",
                 "Robot Kau Plushie",
                 "Pink Draik Plushie",
-                "Darigan Mynci Plushie",
                 "Quiguki Boy Plushie",
                 "Scoach Plushie",
                 "Collectors Edition Quiguki Boy Plushie",
